@@ -31,7 +31,7 @@ body:
     placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
   validations:
     required: true
- - type: input
+- type: input
   id: link
   attributes:
     label: 所开的发应用地址
