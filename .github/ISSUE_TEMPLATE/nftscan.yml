@@ -12,7 +12,7 @@ body:
     attributes:
       label: 申请人
       description: 申请人
-      placeholder: 张三
+      placeholder: ex. 张三
     validations:
       required: true
   - type: input
@@ -20,7 +20,7 @@ body:
     attributes:
       label: NFTScan API 注册邮箱
       description: 注册 NFTScan API 服务所使用的邮箱地址
-      placeholder: zhangsan@gmail.com
+      placeholder: ex. zhangsan@gmail.com
     validations:
       required: true
   - type: textarea
@@ -28,7 +28,7 @@ body:
     attributes:
       label: 申请理由
       description: 描述一下使用 NFTScan Pro API 的用途
-      placeholder: 我开发的应用需要获取某个账户下的NFT清单列表
+      placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
     validations:
       required: true
    - type: input
