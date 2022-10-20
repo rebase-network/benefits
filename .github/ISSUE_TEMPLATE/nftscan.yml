@@ -7,7 +7,7 @@ assignees:
   - luckyyang
   - liushooter
 body:
-  - type: input
+- type: input
     id: name
     attributes:
       label: 申请人
