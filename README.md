@@ -11,8 +11,8 @@ NFTScan API 帮助开发人员构建检索 NFT 和数据分析的新体验。我
 
 目前 NFTScan 为 Rebase 社区中的开发者提供 NFTScan Pro API 使用期，如有需要，点击下面的链接获取6个月的 Pro API。  
 
-[NFTScan 账户注册地址链接](https://developer.nftscan.com/user/regist)  
-[点击申请 Pro API](https://github.com/rebase-network/benefits/issues/new/choose)
+[NFTScan 账户注册地址](https://developer.nftscan.com/user/regist)  
+[点击申请免费 Pro API](https://github.com/rebase-network/benefits/issues/new/choose)
 
 ---
 
