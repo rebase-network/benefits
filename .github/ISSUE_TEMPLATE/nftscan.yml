@@ -3,39 +3,39 @@ description: "NFT Scan Pro API福利领取登记表"
 title: "[NFT Scan Pro API] "
 labels: "NFT Scan"
 assignees:
-  - xrdavies
-  - luckyyang
-  - liushooter
+- xrdavies
+- luckyyang
+- liushooter
 body:
 - type: input
-    id: name
-    attributes:
-      label: 申请人
-      description: 申请人
-      placeholder: ex. 张三
-    validations:
-      required: true
-  - type: input
-    id: email
-    attributes:
-      label: NFTScan API 注册邮箱
-      description: 注册 NFTScan API 服务所使用的邮箱地址
-      placeholder: ex. zhangsan@gmail.com
-    validations:
-      required: true
-  - type: textarea
-    id: description
-    attributes:
-      label: 申请理由
-      description: 描述一下使用 NFTScan Pro API 的用途
-      placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
-    validations:
-      required: true
-   - type: input
-    id: link
-    attributes:
-      label: 所开的发应用地址
-      description: 如果已经有所开发的应用，可以提供相关地址
-      placeholder: ex. https://web3camp.us/
-    validations:
-      required: false
+  id: name
+  attributes:
+    label: 申请人
+    description: 申请人
+    placeholder: ex. 张三
+  validations:
+    required: true
+- type: input
+  id: email
+  attributes:
+    label: NFTScan API 注册邮箱
+    description: 注册 NFTScan API 服务所使用的邮箱地址
+    placeholder: ex. zhangsan@gmail.com
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: 申请理由
+    description: 描述一下使用 NFTScan Pro API 的用途
+    placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
+  validations:
+    required: true
+ - type: input
+  id: link
+  attributes:
+    label: 所开的发应用地址
+    description: 如果已经有所开发的应用，可以提供相关地址
+    placeholder: ex. https://web3camp.us/
+  validations:
+    required: false
