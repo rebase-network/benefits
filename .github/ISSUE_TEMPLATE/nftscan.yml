@@ -23,6 +23,14 @@ body:
     placeholder: ex. zhangsan@gmail.com
   validations:
     required: true
+- type: input
+  id: contact
+  attributes:
+    label: 联系方式
+    description: 微信、Telegram等可以取得联系的方式均可
+    placeholder: ex. zhangsan
+  validations:
+    required: true
 - type: textarea
   id: description
   attributes:
