@@ -1,7 +1,7 @@
-name: "NFT Scan Pro API福利"
-description: "NFT Scan Pro API福利领取登记表"
-title: "[NFT Scan Pro API] "
-labels: "NFT Scan"
+name: "NFTScan Pro API福利"
+description: "NFTScan Pro API福利领取登记表"
+title: "[NFTScan Pro API] "
+labels: "NFTScan"
 assignees:
 - xrdavies
 - luckyyang
