@@ -1,0 +1,49 @@
+name: "BlockPI 福利"
+description: "BlockPI 福利领取登记表"
+title: "[BlockPI Services] "
+labels: "BlockPI"
+assignees:
+- xrdavies
+- luckyyang
+- liushooter
+body:
+- type: input
+  id: name
+  attributes:
+    label: 申请人
+    description: 申请人
+    placeholder: ex. 张三
+  validations:
+    required: true
+- type: input
+  id: email
+  attributes:
+    label: BlockPI Network 账户
+    description: 请提供您用于登录的BlockPI Network注册邮箱或钱包地址或者UID
+    placeholder: ex. zhangsan@gmail.com
+  validations:
+    required: true
+- type: input
+  id: contact
+  attributes:
+    label: 联系方式
+    description: 请提供您的Telegram 或 Discord
+    placeholder: ex. zhangsan
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: 申请理由
+    description: 请您简单描述您的项目以及申请理由（如名称，类型，支持的blockchain等信息）
+    placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
+  validations:
+    required: true
+- type: input
+  id: link
+  attributes:
+    label: Demo或网址（非必填）
+    description: 如果您已经有demo或者网址，请提供相关信息
+    placeholder: ex. https://web3camp.us/
+  validations:
+    required: false
