@@ -1,10 +1,11 @@
 # Rebase 社区福利
 
-本仓库记录所有 Rebase 社区中可以获得的开发者福利。欢迎大家为 Rebase 社区中的开发者提供福利！
+本仓库记录所有 Rebase 社区中可以获得的开发者福利。
+
+Rebase 社区作为非营利性开发者社区，旨在为开发者提供纯粹的技术交流环境，不涉及任何经营行为，所有所有福利均由支持 Rebase 社区发展的各组织、团队、公司免费提供。欢迎大家为 Rebase 社区中的开发者提供福利！
 
 
-
-**目前可享以下福利：**
+## 目前可享以下福利
 
 ### NFTScan
 
@@ -26,6 +27,31 @@ NFTScan 是一个专业的 NFT 数据基础设施，目前已支持 Ethereum、S
 
 ---
 
+### BlockPI Network
+
+BlockPI是一个Web3.0多链分布式加速层，为Web3.0项目提供高速、高可用以及无限可扩展性的全球分布式RPC服务。
+为了支持Web3创业者，我们推出了BlockPI Web3 Startup Program。Web3的开发者可以获得最多$1000的credits，来使用BlockPI的RPC服务。
+
+* Website: https://blockpi.io/
+* Twitter: https://twitter.com/RealBlockPI
+* Discord: https://discord.gg/xTvGVrGVZv
+* Telegram: https://t.me/blockpidaily
+* Medium: https://medium.com/@blockpi
+
+作为 2022 Rebased Hackathon 的支持者，我们将为 Rebase 社区成员提供 Credits 使用 BlockPI RPC 服务。无论您是否报名参加了 Rebase Hackathon 2022，您都可以填写本表格申请BlockPI  Credits。
+
+[BlockPI 账户注册地址](https://dashboard.blockpi.io/)
+
+[点击申请BlockPI RPC服务免费用量](https://github.com/rebase-network/benefits/issues/new/choose)
+
+**填写申请表后，BlockPI Network工作人员向对应账户赠送包含5亿RU，60日有效期的 Elementray RU Package，同时您还可以继续享有每月1亿RU的免费用量，并且该账户内的RU都会升级为无频率限制用量。**
+
+如需更多用量，您可以申请 BlockPI Web3 Startup Program，Rebase 社区成员将享有优先审批机会。有任何问题可以联系 BlockPI Network。
+
+BlockPI Web3 Startup Program 申请表：https://blockpi.io/startup
+
+
+---
 
 ## 如何联系我们
 遇到任何问题请联系微信 **ljyxxzj**, **liushooter2021**, 或 **xrdavies**
