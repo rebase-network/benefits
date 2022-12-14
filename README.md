@@ -50,6 +50,25 @@ BlockPI是一个Web3.0多链分布式加速层，为Web3.0项目提供高速、�
 
 BlockPI Web3 Startup Program 申请表：https://blockpi.io/startup
 
+---
+
+### Blockiot
+Blockiot是一家美国公司，是AWS亚马逊云全球合作伙伴、垂直服务于Web3赛道的云服务商。让开发者使用公有云时的支付更便捷，且注册更简单，并提供云上的技术支持与解决方案。以及提供web3资源帮助客户业务增长（如投融资对接、宣发运营、技术开发、做市商、web3律师、APP海外上架等等）。现有客户200+，包含各家交易所、钱包、DID、Gamefi、Defi平台等。
+
+作为亚马逊云服务合作伙伴，我们的优势有：  
+1.无需KYC，提供邮箱即可注册  
+2.支持USDT支付，更适合web3创业者  
+3.流程与支付合规，出具合同及invoice  
+4.提供云上的技术支持与解决方案  
+5.提供市场资源扶持项目成长  
+
+* Website：blockiot.io
+* Twitter：@blockiot_io
+* WeChat：blockiot_io
+
+目前 Blockiot 为 Rabase 社区中的开发者提供一个月无限量的免费使用权，期待优秀开发者前来问询。
+
+[点击申请 Blockiot 服务免费用量](https://github.com/rebase-network/benefits/issues/new/choose)
 
 ---
 
