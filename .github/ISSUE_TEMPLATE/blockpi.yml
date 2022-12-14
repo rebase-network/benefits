@@ -36,7 +36,7 @@ body:
   attributes:
     label: 申请理由
     description: 请您简单描述您的项目以及申请理由（如名称，类型，支持的blockchain等信息）
-    placeholder: ex. 我开发的应用需要获取某个账户下的NFT清单列表
+    placeholder: ex. 我开发的应用需要获取 Ethereum 上的区块数据
   validations:
     required: true
 - type: input
