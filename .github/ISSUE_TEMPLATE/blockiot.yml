@@ -1,0 +1,41 @@
+name: "BlockIot 福利"
+description: "BlockIot福利领取登记表"
+title: "[BlockIot] "
+labels: "BlockIot"
+assignees:
+- xrdavies
+- luckyyang
+- liushooter
+body:
+- type: input
+  id: name
+  attributes:
+    label: 申请人
+    description: 申请人
+    placeholder: ex. 张三
+  validations:
+    required: true
+- type: input
+  id: contact
+  attributes:
+    label: 联系方式
+    description: 微信、Telegram等可以取得联系的方式均可
+    placeholder: ex. zhangsan
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: 申请理由
+    description: 描述一下使用 BlockIot 的用途
+    placeholder: ex. 我开发的NFT应用需要后端计算资源
+  validations:
+    required: true
+- type: input
+  id: link
+  attributes:
+    label: 所开的发应用地址
+    description: 如果已经有所开发的应用，可以提供相关地址
+    placeholder: ex. https://web3camp.us/
+  validations:
+    required: false
