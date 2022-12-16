@@ -6,6 +6,7 @@ assignees:
 - xrdavies
 - luckyyang
 - liushooter
+- nftscan2022
 body:
 - type: input
   id: name
