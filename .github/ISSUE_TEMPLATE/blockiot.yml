@@ -1,7 +1,7 @@
-name: "BlockIot 福利"
-description: "BlockIot福利领取登记表"
-title: "[BlockIot] "
-labels: "BlockIot"
+name: "BlockIoT 福利"
+description: "BlockIoT福利领取登记表"
+title: "[BlockIoT] "
+labels: "BlockIoT"
 assignees:
 - xrdavies
 - luckyyang
@@ -27,7 +27,7 @@ body:
   id: description
   attributes:
     label: 申请理由
-    description: 描述一下使用 BlockIot 的用途
+    description: 描述一下使用 BlockIoT 的用途
     placeholder: ex. 我开发的NFT应用需要后端计算资源
   validations:
     required: true
