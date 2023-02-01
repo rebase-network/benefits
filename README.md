@@ -20,6 +20,7 @@ NFTScan 是一个专业的 NFT 数据基础设施，目前已支持 Ethereum、S
 目前 NFTScan 为 Rebase 社区中的开发者提供 NFTScan Pro API 使用福利，如有需要，点击下面的链接获取为 Rebase 社区开发者提供的免费 Pro API 服务。
 
 [NFTScan 账户注册地址](https://developer.nftscan.com/user/regist)
+
 [点击申请免费 3 个月、每天 3 万次调用的 Pro API](https://github.com/rebase-network/benefits/issues/new/choose)
 
 **填写申请表后，NFTScan 工作人员会给对应账户开通相应 Pro API 服务。**
