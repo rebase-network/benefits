@@ -1,0 +1,41 @@
+name: "4EVERLAND 福利"
+description: "4EVERLAND 福利领取登记表"
+title: "[4EVERLAND] "
+labels: "4EVERLAND"
+assignees:
+- xrdavies
+- luckyyang
+- liushooter
+body:
+- type: input
+  id: name
+  attributes:
+    label: 申请人
+    description: 申请人
+    placeholder: ex. 张三
+  validations:
+    required: true
+- type: input
+  id: contact
+  attributes:
+    label: 联系方式
+    description: Discord handle、Telegram 等可以取得联系的方式
+    placeholder: ex. zhangsan
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: 申请理由
+    description: 描述一下使用 4EVERLAND 的用途
+    placeholder: ex. 我需要使用去中心化部署/存储/rpc 服务 - IPFS/Arweave etc.
+  validations:
+    required: true
+- type: input
+  id: link
+  attributes:
+    label: 所开的发应用地址
+    description: 如果已经有所开发的应用，可以提供相关网址
+    placeholder: ex. https://4everland.org/
+  validations:
+    required: false
