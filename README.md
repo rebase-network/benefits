@@ -78,5 +78,31 @@ BlockIoT 是一家美国公司，是 AWS 亚马逊云全球合作伙伴、垂直
 
 ---
 
+### 4EVERLAND
+
+4EVERLAND 是一个由区块链技术驱动的 Web3.0 基础设施，它整合了 IPFS、Arweave、BNB greenfield 和 Dfinity 的底层功能，为开发者提供便捷、高效、低成本的存储、网络和计算能力。4EVERLAND致力于帮助开发者从Web2.0平滑迁移到Web3.0，并构建一个对Web2.0友好的Web3.0云计算平台。
+
+* Website：https://www.4everland.org
+* Medium：https://medium.com/4everland
+* Twitter：https://twitter.com/4everland_org
+* Discord：https://discord.gg/4everland
+* Telegram：https://t.me/org_4everland
+* Email：contact@4everland.org
+
+4EVERLAND 为 Rebase 社区开发者提供4EVERLAND 产品使用福利，主要包含以下功能产品：
+
+* Dweb Hosting based on IPFS/Arweave/Greenfield/Dfinity
+* IPFS/Arweave/Greenfield Storage
+* Dedicated Gateway for IPFS/Arweave
+* RPC Service
+
+[4EVERLAND账户注册地址]([https://dashboard.4everland.org)
+
+[点击申请 4EVERLAND 服务免费用量](https://github.com/rebase-network/benefits/issues/new/choose)
+
+**填写申请表后，4EVERLAND会向对应账户赠送包含 1亿 LAND，60日有效期的 LAND Package，同时账户可以继续享有每月基础套餐的免费用量。如需要更多用量或者其他定制化服务，请联系 Rebase 社区或4EVERLAND。**
+
+---
+
 ## 如何联系我们
 遇到任何问题请联系微信 **ljyxxzj**, **liushooter2021**, 或 **xrdavies**
